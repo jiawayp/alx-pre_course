@@ -1,1 +1,1 @@
-Alx school is so good.
+Alx school is full stack development.
